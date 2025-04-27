@@ -1,0 +1,2 @@
+# EkspolarsiPolaBarisan
+Topik : Barisan Aritmetika
